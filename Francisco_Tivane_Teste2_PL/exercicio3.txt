@@ -1,0 +1,4 @@
+das expressões abaixo.
+a.(A && B) && (!C || D) : false
+b.!(A && C) || (A && D) XOR B : true
+c.	 A || (B || !C)&&B : true
